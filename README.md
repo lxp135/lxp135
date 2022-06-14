@@ -25,4 +25,4 @@ I'm liuxp, a fullstack developer.
 - 🍎 Mission: `Don't Repeat Yourself`,`Keep it Simple Stupid`,`Done is better than perfect`
 - 📍 沈阳
 
-<!-- More details on [liuxp.me](https://liuxp.me/). -->
+More details on [liuxp.me](https://liuxp.me/).
