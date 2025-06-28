@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 I'm liuxp, a fullstack developer.
 
-- 🍒 Developer of [minio-plus](https://minioplus.liuxp.me/),[Alice CodeCreator](https://creator.liuxp.me)
+- 🍒 Developer of [minio-plus](https://minioplus.liuxp.me/), [Alice CodeCreator](https://creator.liuxp.me)
 - 🍉 Working on 上海通办信息服务有限公司 currently
 - 👨‍🦳 Have a daughter，a lovly little girl.
 - 🍎 Mission: `Don't Repeat Yourself`,`Keep it Simple Stupid`,`Done is better than perfect`
